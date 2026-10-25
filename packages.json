@@ -1,0 +1,13 @@
+{
+  "name": "server-ssrf-executor",
+  "version": "1.1.0",
+  "description": "Node.js Server-Side Executor for Roblox APIUtil SSRF",
+  "main": "executor.js",
+  "scripts": {
+    "start": "node executor.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fengari": "^0.1.4"
+  }
+}
